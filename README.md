@@ -12,7 +12,10 @@ Code rewriting TF Implementation of EfficientNet to PyTorch
 
 ## HOW TO:
 
+![Image](./img/plot.png)
+
 ```
+
 python3 main.py -h
 usage: main.py [-h] --save_dir SAVE_DIR [--root ROOT] [--gpus GPUS]
                [--num_workers NUM_WORKERS] [--model {b0}] [--epoch EPOCH]
